@@ -1,5 +1,21 @@
 <img width="970" alt="web-wide-world-basics" src="https://github.com/user-attachments/assets/75007d88-cd9c-45c6-95d7-5f6027c17301">
 
+- About the name:
+
+  - (Web Wide) World​
+
+      This parsing describes our core architectural and philosophical ​vision.
+      - ​Meaning: It signifies a ​decentralized world built to be pervasive across the entire web. It is not just a state of being but an ​invitation and a framework: it anticipates permeating and covering the entire network, advocating that every website and service should interoperate, associate, and adapt itself to become a part of this world.
+      - ​Focus: ​A Decentralized Fabric. The emphasis is on creating a cohesive experience through a distributed, open architecture, not a centralized platform.
+
+  - Web (Wide World)​​
+
+      This parsing emphasizes the ​richness of the user experience​ within that architecture.
+      - ​Meaning: It describes the ​immense and diverse digital universe​ that emerges within this networked world—a universe of endless experiences, services, and communities that the framework enables.
+      - Focus: ​The User's Reality. It highlights the boundless exploration and interaction that users experience within the Web Wide World.
+
+  - Together, these two interpretations form the complete ethos of this project: ​to provide a decentralized protocol that enables a vast digital world to emerge organically across the entire web, inviting every node to participate and every user to explore.​​
+
 - Description:
 
   Building blocks for constructing a tangible virtual world has begun to take shape. Technologies from various fields are becoming increasingly mature, such as gaming, social platforms, digital twins, and virtual reality.
