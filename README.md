@@ -1,40 +1,41 @@
 <img width="970" alt="web-wide-world-basics" src="https://github.com/user-attachments/assets/75007d88-cd9c-45c6-95d7-5f6027c17301">
 
-- About the name:
+## The Name
 
-  - (Web Wide) World​
+**Web Wide World** can be read two ways — and both are intentional.
 
-      This parsing describes our core architectural and philosophical ​vision.
-      - ​Meaning: It signifies a ​decentralized world built to be pervasive across the entire web. It is not just a state of being but an ​invitation and a framework: it anticipates permeating and covering the entire network, advocating that every website and service should interoperate, associate, and adapt itself to become a part of this world.
-      - ​Focus: ​A Decentralized Fabric. The emphasis is on creating a cohesive experience through a distributed, open architecture, not a centralized platform.
+**(Web Wide) World** — a world that spreads across the entire web.
+Not one platform. Not one company. A decentralized fabric where every website can be part of the same world.
 
-  - Web (Wide World)​​
+**Web (Wide World)** — a vast world experienced through the web.
+Endless places, communities, and experiences — all reachable, all connected.
 
-      This parsing emphasizes the ​richness of the user experience​ within that architecture.
-      - ​Meaning: It describes the ​immense and diverse digital universe​ that emerges within this networked world—a universe of endless experiences, services, and communities that the framework enables.
-      - Focus: ​The User's Reality. It highlights the boundless exploration and interaction that users experience within the Web Wide World.
+Together: a protocol that lets a shared virtual world grow organically across the web, where every node can participate and every user can explore.
 
-  - Together, these two interpretations form the complete ethos of this project: ​to provide a decentralized protocol that enables a vast digital world to emerge organically across the entire web, inviting every node to participate and every user to explore.​​
+---
 
-- Description:
+## What We're Building
 
-  Building blocks for constructing a tangible virtual world has begun to take shape. Technologies from various fields are becoming increasingly mature, such as gaming, social platforms, digital twins, and virtual reality.
-This session aims to trigger the discussion on how each stakeholder may collaborate to co-create a tangible virtual world that is interconnected, mutually beneficial, supportive and belongs to all. We need a set of standards that enable the integration of individual efforts to build an open platform on web, fostering prosperity through cooperation rather than competition.
-This session will delve into our recent endeavors in crafting virtual world experiences on Tencent products. We will share insights from our development process, highlight the innovative solutions we implemented, and discuss the hurdles we encountered along the way.
+The tools for a real virtual world — 3D, social, persistent — are mature enough now. Games, digital twins, VR, social platforms: the pieces exist.
 
-- The following aspects will be addressed:
+What's missing is the glue. A shared standard so that individual efforts connect instead of compete.
 
-  1. Types and Corresponding Roles: Sites as Service Integrators and Programs as Service Providers
-  2. Scoping: Defining the Origins of Assets and Elements
-  3. Asset Deployments: Planning Asset URIs and Deploying according to Scoping
-  4. Site Hierarchy: Inter-Site Integration through Contracts and Administration according to Scoping
-  5. Site-Program Integration: Cooperating between Programs and Sites through Contracts
-  6. Permission Controls: Managing Authorization for Assets and Elements across Sites/Programs
-  7. Version Management: Independent Releases by Sites/Programs with Unified Synchronization across the Virtual World
-  8. Multi-user Interaction: Distributed across Sites and Seamlessly Integrated through On-Demand Pub/Sub for Users
+This project defines that standard. Any site can host part of the world. Assets and users move freely across sites. No one owns it all.
 
-- Goal(s):
+## Key Problems to Solve
 
-  1) Call for participation: co-create one tangible virtual world that is globally shared, co-constructed, and interconnected on web.
-  2) Share ideas on user experience, economic models, technological challenges.
-  3) Discuss standard needs for asset, logic, user interaction, UI and business integrations.
+1. **Asset ownership** — where assets live and who controls them
+2. **Site hierarchy** — how sites connect and trust each other
+3. **Permissions** — authorization across sites and programs
+4. **Versioning** — independent updates that stay in sync
+5. **Multi-user interaction** — real-time presence across distributed sites
+
+## Goals
+
+- Define open standards for a shared virtual world on the web
+- Make participation easy for any developer or site
+- Build something that belongs to everyone
+
+## Status
+
+Early stage. Defining the protocol. Contributions and discussions welcome.
