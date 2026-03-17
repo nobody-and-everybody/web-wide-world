@@ -1,5 +1,4 @@
 <img width="970" alt="web-wide-world-basics" src="https://github.com/user-attachments/assets/75007d88-cd9c-45c6-95d7-5f6027c17301">
-Read in 🇨🇳 [简明中文版](README.zh-CN.md)
 
 ## The Name
 
