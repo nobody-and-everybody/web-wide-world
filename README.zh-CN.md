@@ -1,4 +1,32 @@
-<img width="970" alt="web-wide-world 基础概念图" src="https://github.com/user-attachments/assets/75007d88-cd9c-45c6-95d7-5f6027c17301">
+## 架构示意（中文术语）
+
+
+```mermaid
+graph TD
+   subgraph 互联网广域世界
+       subgraph 场所A[游戏服务器]
+           PA[小程序：渲染引擎]
+           AA[资产：3D模型]
+       end
+       subgraph 场所B[艺术画廊]
+           PB[小程序：画布管理]
+           AB[资产：画作库]
+       end
+       subgraph 场所C[社交广场]
+           PC[小程序：聊天服务]
+           AC[资产：表情包]
+       end
+   end
+   User[玩家化身] --> 场所A
+   User --> 场所B
+   User --> 场所C
+   场所A -- 契约连接 --> 场所B
+   场所B -- 契约连接 --> 场所C
+```
+
+> 注：此图为概念架构图，采用中文术语定义（Site = 场所, Program = 小程序, Contract = 契约）。
+
+---
 
 ## 名称含义
 
@@ -33,7 +61,7 @@
 ## 目标
 
 - 定义一套适用于互联网共享虚拟世界的开放标准
-- 降低任何开发者或场所参与的门槛
+- 降低任何开发者或站点参与的门槛
 - 建造一个属于所有人的世界，而非单一平台
 
 ## 当前状态
