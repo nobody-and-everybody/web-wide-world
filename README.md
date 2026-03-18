@@ -38,16 +38,15 @@ This project defines that standard. Any site can host part of the world. Assets 
 
 ## 3DGS Implementation Demo
 
-For a working example of how 3D Gaussian Splatting (3DGS) can be integrated into a web-based virtual world, visit:
+To see practical examples of building interactive virtual worlds with 3D Gaussian Splatting (3DGS), visit the **v2** showcase:
 **[https://web-wide-world.space/v2](https://web-wide-world.space/v2)**
 
-This live demo loads a fully interactive Chinese garden scene built with 3DGS:
-- 7 spatial regions with on-demand loading/unloading
-- 5 NPCs with animation and dialogue
-- Dynamic region‑replace system (distance‑based LOD)
-- Built with Tencent's 3DGS viewer (`spark` format)
+The v2 directory includes multiple 3DGS scenes built with modern web technologies:
+- **Chinese garden** — a fully interactive environment with 7 spatial regions, 5 animated NPCs, and dynamic region‑replace LOD
+- Future scenes (in development) will demonstrate urban environments, digital twins, and social spaces  
+- All scenes use Tencent's 3DGS viewer (`spark` format) and support cross‑region asset streaming
 
-It shows one possible implementation of the Web Wide World concept using modern 3D web technologies.
+Each scene serves as a concrete example of how decentralized 3D content can be delivered through the web, aligning with the Web Wide World protocol.
 
 ## Status
 
