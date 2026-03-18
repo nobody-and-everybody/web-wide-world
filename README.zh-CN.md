@@ -67,7 +67,7 @@ graph TD
 ## 3DGS 实践演示
 
 要了解 3D 高斯泼溅渲染（3DGS）如何集成到 web 虚拟世界中，请查看：
-**[https://web-wide-world.space/viewer2](https://web-wide-world.space/viewer2)**
+**[https://web-wide-world.space/v2](https://web-wide-world.space/v2)**
 
 此在线演示加载了一个基于 3DGS 构建的完全交互式中国园林场景：
 - 7 个空间区域（按需加载/卸载）

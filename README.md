@@ -39,7 +39,7 @@ This project defines that standard. Any site can host part of the world. Assets 
 ## 3DGS Implementation Demo
 
 For a working example of how 3D Gaussian Splatting (3DGS) can be integrated into a web-based virtual world, visit:
-**[https://web-wide-world.space/viewer2](https://web-wide-world.space/viewer2)**
+**[https://web-wide-world.space/v2](https://web-wide-world.space/v2)**
 
 This live demo loads a fully interactive Chinese garden scene built with 3DGS:
 - 7 spatial regions with on-demand loading/unloading
