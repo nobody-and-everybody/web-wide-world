@@ -10,13 +10,13 @@ Not one platform. Not one company. A decentralized fabric where every website ca
 **Web (Wide World)** — a vast world experienced through the web.
 Endless places, communities, and experiences — all reachable, all connected.
 
-Together: a protocol that lets a shared virtual world grow organically across the web, where every node can participate and every user can explore.
+Together: a protocol that lets a shared digital world grow organically across the web, where every node can participate and every user can explore.
 
 ---
 
 ## What We're Building
 
-The tools for a real virtual world — 3D, social, persistent — are mature enough now. Games, digital twins, VR, social platforms: the pieces exist.
+The tools for a real digital world — 3D, social, persistent — are mature enough now. Games, digital twins, VR, social platforms: the pieces exist.
 
 What's missing is the glue. A shared standard so that individual efforts connect instead of compete.
 
@@ -32,13 +32,13 @@ This project defines that standard. Any site can host part of the world. Assets 
 
 ## Goals
 
-- Define open standards for a shared virtual world on the web
+- Define open standards for a shared digital world on the web
 - Make participation easy for any developer or site
 - Build something that belongs to everyone
 
 ## 3DGS Implementation Demo
 
-To see practical examples of building interactive virtual worlds with 3D Gaussian Splatting (3DGS), visit the **v2** showcase:
+To see practical examples of building interactive digital worlds with 3D Gaussian Splatting (3DGS), visit the **v2** showcase:
 **[https://web-wide-world.space/v2](https://web-wide-world.space/v2)**
 
 The v2 directory includes multiple 3DGS scenes built with modern web technologies:
